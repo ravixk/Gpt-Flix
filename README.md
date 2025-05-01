@@ -79,7 +79,3 @@ To deploy this project run
 ```bash
 firebase deploy
 ```
-
-## :handshake: Contact
-
-Project Link: [https://github.com/dvnn10/gpt-flix](https://github.com/dvnn10/gpt-flix)
