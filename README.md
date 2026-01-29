@@ -48,10 +48,6 @@ To run this project, you will need to add the following environment variables to
 
 ### :running: Run Locally
 
-Clone the project
-
-```bash
-https://github.com/dvnn10/gpt-flix.git
 ```
 
 Go to the project directory
